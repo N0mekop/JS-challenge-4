@@ -48,3 +48,24 @@ console.log(
     `Koalas score 2: ${firstMatchKoalasScores.score2}\n`,
     `Koalas score 3: ${firstMatchKoalasScores.score3}\n`,
     );
+
+console.log(
+    `\n`,
+    `Dauphins score 1: ${secondMatchDauphinsScores.score1}\n`,
+    `Dauphins score 2: ${secondMatchDauphinsScores.score2}\n`,
+    `Dauphins score 3: ${secondMatchDauphinsScores.score3}\n`,
+    `Koalas score 1: ${secondMatchKoalasScores.score1}\n`,
+    `Koalas score 2: ${secondMatchKoalasScores.score2}\n`,
+    `Koalas score 3: ${secondMatchKoalasScores.score3}\n`,
+    );
+
+console.log(
+    `\n`,
+    `Dauphins score 1: ${thirdMatchDauphinsScores.score1}\n`,
+    `Dauphins score 2: ${thirdMatchDauphinsScores.score2}\n`,
+    `Dauphins score 3: ${thirdMatchDauphinsScores.score3}\n`,
+    `Koalas score 1: ${thirdMatchKoalasScores.score1}\n`,
+    `Koalas score 2: ${thirdMatchKoalasScores.score2}\n`,
+    `Koalas score 3: ${thirdMatchKoalasScores.score3}\n`,
+    );
+
